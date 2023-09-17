@@ -1,0 +1,23 @@
+{
+  "name": "cse341-project-one",
+  "version": "1.0.0",
+  "description": "\"My first project\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmaohn/cse341.git"
+  },
+  "author": "Jojo Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmaohn/cse341/issues"
+  },
+  "homepage": "https://github.com/emmaohn/cse341#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
