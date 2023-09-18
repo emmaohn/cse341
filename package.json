@@ -17,7 +17,5 @@
     "url": "https://github.com/emmaohn/cse341/issues"
   },
   "homepage": "https://github.com/emmaohn/cse341#readme",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+  "dependencies": {}
 }
